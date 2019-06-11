@@ -13,7 +13,10 @@
  - Office
  - Microsoft Store
   
-  
+# 待添加功能
+
+ - 增加批处理，方便导入
+ 
 ## 请搭配阅读：
  - [Onedrive稳定使用技巧](https://www.zhangxuhu.com/archives/35.html)
  - [Onedrive Hosts](https://www.zhangxuhu.com/archives/158.html)
