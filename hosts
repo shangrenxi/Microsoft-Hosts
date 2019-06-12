@@ -1,15 +1,18 @@
+#Onedrive客户端
 13.107.42.12 api.onedrive.com
 13.107.42.12 public.bn.files.1drv.com
 13.107.42.12 public.dm.files.1drv.com
-13.107.42.12 d.docs.live.net
-13.107.42.12 docs.live.net
-52.109.2.32 contentsync.onenote.com
-52.109.132.2 contentsync.onenote.com
-52.109.132.2 www.onenote.com
-52.109.2.32 www.onenote.com
 40.90.136.163 skydrivesync.policies.live.net
 157.55.109.230 skydrivesync.policies.live.net
 40.77.224.8 skydrivesync.policies.live.net
 104.74.21.118 oneclient.sfx.ms
 23.1.189.37 oneclient.sfx.ms
 23.56.30.148 oneclient.sfx.ms
+#通用
+13.107.42.12 d.docs.live.net
+13.107.42.12 docs.live.net
+#Onenote UWP客户端
+52.109.2.32 contentsync.onenote.com
+52.109.132.2 contentsync.onenote.com
+52.109.132.2 www.onenote.com
+52.109.2.32 www.onenote.com
