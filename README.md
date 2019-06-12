@@ -2,11 +2,15 @@
 
 本hosts通过由作者通过抓包工具和online ping工具收集制作而成，获取了Microsoft服务最新的ip地址，支持ipv6，大部分ip均为anycast ip，少部分为香港ip，以方便使用。
 
-# 建设中项目
+# 初步完成项目
 
  - OneDrive
  - OneNote
  
+# 建设中项目
+
+
+
 # 待建设项目
 
  - OneDrive for Business
