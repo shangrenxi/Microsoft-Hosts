@@ -6,6 +6,8 @@
 
  - OneDrive
  - OneNote
+ - OneDrive for Business
+ 
  
 # 建设中项目
 
@@ -14,7 +16,6 @@
 
 # 待建设项目
 
- - OneDrive for Business
  - Office
  - Microsoft Store
   
