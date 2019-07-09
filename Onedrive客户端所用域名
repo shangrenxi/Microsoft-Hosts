@@ -12,3 +12,5 @@ onedrive.live.com
 *.sharepoint.com
 wns.windows.com
 config.teams.microsoft.com
+login.microsoftonline.com
+login.live.com
