@@ -30,10 +30,14 @@
 
 
 #Onenote UWP客户端
-52.109.2.32 contentsync.onenote.com
 52.109.132.2 contentsync.onenote.com
-52.109.132.2 www.onenote.com
-52.109.2.32 www.onenote.com
+52.109.48.2 contentsync.onenote.com
+52.109.44.3 contentsync.onenote.com
+52.109.48.0 www.onenote.com
+52.109.2.10 www.onenote.com
+52.109.44.1 www.onenote.com
+23.57.112.187 c1-onenote-15.cdn.office.net
+23.219.32.184 c1-onenote-15.cdn.office.net
 
 
 #Onedrive for Business
