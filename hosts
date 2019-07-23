@@ -36,6 +36,12 @@
 52.109.56.33 ocws.officeapps.live.com
 52.109.124.103 ocws.officeapps.live.com
 52.109.20.5 ocws.officeapps.live.com
-
+52.109.2.18 roaming.officeapps.live.com
+52.109.56.34 roaming.officeapps.live.com
+52.109.120.3 roaming.officeapps.live.com
+23.65.34.111 contentstorage.osi.office.net
+23.41.47.209 contentstorage.osi.office.net
+184.84.56.175 contentstorage.osi.office.net
+  
 #Onedrive for Business
 13.107.136.9 **-my.sharepoint.com  #请将**改成自己所在域的域名
