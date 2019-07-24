@@ -1,33 +1,23 @@
 # 最新Microsoft Hosts
 
-本hosts通过由作者通过抓包工具和online ping工具收集制作而成，获取了Microsoft服务最新的ip地址，支持ipv6，大部分ip均为anycast ip，少部分为香港ip，以方便使用。
+本hosts包括Microsoft服务最新的ip地址，部分支持ipv6，大ip均为anycast ip或者香港ip。
 
 # 初步完成项目
 
  - OneDrive
- - OneNote
  - OneDrive for Business
+ - OneNote UWP
+ - Microsoft Office
  
- 
-# 建设中项目
+# 计划
 
- - Windows 10
- - Edge
-
-# 待建设项目
-
- - Office
- - Microsoft Store
+ - 完善Windows 10同步、Microsoft Store、Microsoft Account、增加批处理，方便导入
   
-# 待添加功能
+# 注意
 
- - 增加批处理，方便导入
+ - 仅为方便使用Office的商务人士和教育用户，请勿用于他用。
+ - Hosts并不能解决全部问题，同时hosts也需要经常更新。
  
 ## 请搭配阅读
 
  - [Onedrive Hosts](https://www.zhangxuhu.com/archives/158.html)
-
-## 注意
-
- - 仅为方便使用Office的商务人士和教育用户，请勿用于他用。
- - Hosts并不能解决全部问题，同时hosts也需要经常更新。
