@@ -1,8 +1,10 @@
-#通用
+# 项目地址：https://github.com/Marukon/Microsoft-Hosts
+
+# Onedrive通用
 13.107.42.12 d.docs.live.net
 13.107.42.12 docs.live.net
 
-#Onedrive客户端
+# Onedrive客户端
 13.107.42.12 api.onedrive.com
 13.107.42.12 public.bn.files.1drv.com
 13.107.42.12 public.dm.files.1drv.com
@@ -22,8 +24,10 @@
 52.139.250.253 skydrive.wns.windows.com
 40.90.189.152 skydrive.wns.windows.com
 
+# Onedrive for Business客户端
+13.107.136.9 **-my.sharepoint.com  #请将**改成自己所在域的域名
 
-#Onenote UWP客户端
+# Onenote UWP客户端
 52.109.132.2 contentsync.onenote.com
 52.109.48.2 contentsync.onenote.com
 52.109.44.3 contentsync.onenote.com
@@ -42,6 +46,3 @@
 23.65.34.111 contentstorage.osi.office.net
 23.41.47.209 contentstorage.osi.office.net
 184.84.56.175 contentstorage.osi.office.net
-  
-#Onedrive for Business
-13.107.136.9 **-my.sharepoint.com  #请将**改成自己所在域的域名
