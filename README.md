@@ -1,13 +1,14 @@
-# 最新Microsoft Hosts
+# 最新Microsoft(微软)的Hosts和PAC
 
 本hosts包括Microsoft服务最新的ip地址，部分支持ipv6，大ip均为anycast ip或者香港ip。
+增加了相应的PAC，方便为微软服务提速
 
 # 初步完成项目
 
  - OneDrive
  - OneDrive for Business
  - OneNote UWP
- - Microsoft Office
+ - Microsoft Office 2016/2019/365
  
 # 计划列表
 
