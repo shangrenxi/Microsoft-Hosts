@@ -26,6 +26,7 @@
 
 # Onedrive for Business客户端
 #13.107.136.9 **-my.sharepoint.com
+#13.107.6.151 **-my.sharepoint.com
 #请将**改成自己所在域的域名,没听过的话请删除这条
 
 # Onenote UWP客户端
