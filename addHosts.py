@@ -1,11 +1,12 @@
 #coding:utf-8
-import os
 #备份原hosts
-Local_hosts = open("C:\\Windows\\System32\\drivers\\etc\\hosts",mode='w+',encoding='utf-8')
+Local_hosts = open("C:\\Windows\\System32\\drivers\\etc\\hosts",mode='a+',encoding='utf-8')
+Local_hosts.seek(0,0)
 Local_backup = open("C:\\Windows\\System32\\drivers\\etc\\hosts.bak",mode='w+',encoding='utf-8')
 for line in Local_hosts.readlines():
     Local_backup.write(line)
-Local_hosts = open("C:\\Windows\\System32\\drivers\\etc\\hosts",mode='a+',encoding='utf-8')
+Local_hosts.seek(0,2)
+Local_backup.close()
 #选择想要写入的文件
 print(\
 "***********************************************************************\n\
