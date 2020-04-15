@@ -7,7 +7,7 @@ for line in Local_hosts.readlines():
     Local_backup.write(line)
 Local_hosts.seek(0,2)
 Local_backup.close()
-#选择想要写入的文件
+#选择要写入的文件
 print(\
 "***********************************************************************\n\
 ****** \t\t\t添加哪一个hosts文件？\t\t\t*******\n\
