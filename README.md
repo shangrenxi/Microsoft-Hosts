@@ -14,6 +14,9 @@
 
  - 完善Windows 10同步、Microsoft Store、Microsoft Account
  - 增加批处理，方便导入
+## 已增加批处理（暂时仅windows可用）
+ - 使用python编写了导入脚本，源代码在项目[addHosts.py](https://github.com/MattMaBX/Microsoft-Hosts/blob/master/addHosts.py)文件中
+ - 使用时需用管理员权限打开[addHosts.exe](https://github.com/MattMaBX/Microsoft-Hosts/blob/master/addHosts.exe)(因为hosts文件的改动必须使用管理员权限)
   
 # 注意事项
 
