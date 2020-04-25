@@ -23,7 +23,4 @@
 
  - 仅为方便使用Office的商务人士和教育用户，请勿用于他用。
  - Hosts并不能解决全部问题，同时hosts也需要经常更新。
- 
-## 请搭配阅读
 
- - [Onedrive Hosts](https://www.zhangxuhu.com/archives/158.html)
