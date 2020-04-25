@@ -17,6 +17,7 @@
 ## 已增加批处理（暂时仅windows可用）
  - 改用C++重写了导入脚本，大幅减小了脚本的大小，提高脚本启动速度。源代码在项目[AddHosts.cpp](https://github.com/MattMaBX/Microsoft-Hosts/blob/master/AddHosts.cpp)文件中。
  - 使用时必须用管理员权限打开[AddHosts.exe](https://github.com/MattMaBX/Microsoft-Hosts/blob/master/AddHosts.exe)(因为hosts文件的改动必须使用管理员权限)。
+- **New！问题修复**：若运行AddHosts脚本出现了**缺失.dll文件**的异常，请尝试下载使用[AddHosts_fix.exe](https://github.com/MattMaBX/Microsoft-Hosts/blob/master/AddHosts_fix.exe)。初步估计是因为部分设备上的dll库不全导致的（因为在作者的设备上测试时未发现该问题）。已在新版本中使用静态编译编入了所有依赖，若问题复现，请再进行反馈。修复有些迟，请谅解！
  - 感谢[MattMaBX](https://github.com/MattMaBX)
   
 # 注意事项
